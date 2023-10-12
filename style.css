@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "ForeverRaw";
+  src: url(fonts/MB-ForeverRaw.ttf);
+}
+h3 {
+  font-style: italic;
+}
+
+div {
+        width:500px;
+        margin:50px ;
+        position: absolute;
+
+        left: 70%;
+        top:-40px;
+}
